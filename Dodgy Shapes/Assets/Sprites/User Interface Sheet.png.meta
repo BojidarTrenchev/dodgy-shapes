@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: f1968c4a80187f64bb37020e5ae8a85f
+timeCreated: 1499280820
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: User Interface Sheet_0
+    21300002: User Interface Sheet_1
+    21300004: User Interface Sheet_2
+    21300006: User Interface Sheet_3
+    21300008: User Interface Sheet_4
+    21300010: User Interface Sheet_5
+    21300012: User Interface Sheet_6
+    21300014: User Interface Sheet_7
+    21300016: User Interface Sheet_8
+    21300018: User Interface Sheet_9
+    21300020: User Interface Sheet_10
+    21300022: User Interface Sheet_11
+    21300024: User Interface Sheet_12
+    21300026: User Interface Sheet_13
+    21300028: User Interface Sheet_14
+    21300030: User Interface Sheet_15
+    21300032: User Interface Sheet_22
+    21300034: User Interface Sheet_23
+    21300036: User Interface Sheet_24
+    21300038: User Interface Sheet_25
+    21300040: User Interface Sheet_26
+    21300042: User Interface Sheet_27
+    21300044: User Interface Sheet_28
+    21300046: User Interface Sheet_29
+    21300048: User Interface Sheet_30
+    21300050: User Interface Sheet_31
+    21300052: User Interface Sheet_32
+    21300054: User Interface Sheet_33
+    21300056: User Interface Sheet_34
+    21300058: User Interface Sheet_16
+    21300060: User Interface Sheet_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: User Interface Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 724
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 848
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 847
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 875
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 847
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 794
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 713
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 769
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 713
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 256
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 650
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 579
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 516
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 579
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 499
+        width: 341
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 445
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 255
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 242
+        width: 256
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 311
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 106
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 134
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 177
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 263
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 259
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 117
+        width: 148
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 156
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: User Interface Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 41
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
